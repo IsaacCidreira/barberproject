@@ -58,6 +58,7 @@ export const UserContextContainer = ({ children }: ReactNode | any) => {
           await getUser(token)
         } catch (error) {
           console.log(error)
+          window.localStorage.removeItem('token')
         } finally {
           setIsLoading(false)
         }
