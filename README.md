@@ -17,6 +17,7 @@ Como iniciar o projeto ?
 
 ![image](https://user-images.githubusercontent.com/80259818/180435445-909de68e-708f-46a2-839f-22c188c0ab27.png)
 ![image](https://user-images.githubusercontent.com/80259818/180435474-560160ab-468f-4045-8174-5cf01660b7a7.png)
+
 3.1- Após instalada as dep, vamos rodar o docker com o comando docker-compose up 
 
 ![image](https://user-images.githubusercontent.com/80259818/180435633-adab073e-73ad-4686-a775-d811fae511d0.png)
