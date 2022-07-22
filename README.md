@@ -61,4 +61,6 @@ Caso tudo dê certo irá aparecer em seu navegador
 Lembrando que o backend precisa estar rodando simultaneamente com o front, necessita primeiramente ser iniciado o backend
 
 
+PS: não esqueca de criar sua conta.
+
 
