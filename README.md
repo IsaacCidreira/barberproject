@@ -26,7 +26,7 @@ Como iniciar o projeto ?
 
 ![image](https://user-images.githubusercontent.com/80259818/180435697-13fdec3e-a444-4301-b2ab-59a0d9107d92.png)
 
-3.3 -Com o docker já iniciado e criado a imagem, vá até o arquivo ormconfig.json e mude e salve o host para localhost, para podermos rodar as migrations
+3.3 -Com o docker já iniciado e criado a imagem, vá até o arquivo ormconfig.jso, mude e salve o host para localhost, para podermos rodar as migrations
 
 ![image](https://user-images.githubusercontent.com/80259818/180436357-ff8c707b-3e10-4cc5-ad49-c7ab48de5a1f.png)
 
